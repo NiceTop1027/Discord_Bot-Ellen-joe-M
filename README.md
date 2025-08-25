@@ -16,4 +16,6 @@ python3 bot.py
   <li>명예점수 삭제</li>
 </ul>
 
-<p style="text-align: center;">Made by s13w00</p>
+<div style="text-align: center;">
+  <p style="">Made by s13w00</p>
+</div>
