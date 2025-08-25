@@ -17,5 +17,5 @@ python3 bot.py
 </ul>
 
 <div style="text-align: center;">
-  <p style="">Made by s13w00</p>
+  <p style="font-size: 100px">Made by s13w00</p>
 </div>
