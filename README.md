@@ -31,5 +31,5 @@ python3 bot.py
 ---
 
 <div align="center">
-  <sub>Made with by <strong>s13w00</strong></sub>
+  <sub>Made with by <strong>s13w00!</strong></sub>
 </div>
